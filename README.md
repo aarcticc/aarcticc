@@ -15,10 +15,6 @@
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarcticc&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |:-:|
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aarcticc&icon=1&color=8)](https://visitcount.itsvg.in)
 
