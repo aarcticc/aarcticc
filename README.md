@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧑‍💻 16-Year-Old student<br>⏳ 3-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
+<p align="left">🙋‍♂️ 16-Year-Old student<br>⏳ 3-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
 
 ###
 
