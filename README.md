@@ -1,4 +1,20 @@
-<img align="left" height="180" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
+<br clear="both">
+
+<h1 align="center">👋 Welcome to my GitHub!</h1>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🧑‍💻 16-Year-Old student<br>⏳ 3-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
 
 ###
 
@@ -13,25 +29,7 @@
 
 ###
 
-<h1 align="center">👋 Welcome to my GitHub!</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aarcticc.aarcticc&"  />
-</div>
-
-###
-
-<h4 align="left">👩‍💻  About Me</h4>
-
-###
-
-<p align="left">🧑‍💻 16-Year-Old student<br>⏳ 3-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
-
-###
-
-<h4 align="left">🛠 Language and tools</h4>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
