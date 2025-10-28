@@ -20,7 +20,7 @@
   <a href="https://stackoverflow.com/users/31767462/aarcticc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="https://discord.com/1103353926901837865" target="_blank">
+  <a href="https://discord.com/users/1103353926901837865" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
