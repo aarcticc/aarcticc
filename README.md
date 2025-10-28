@@ -1,5 +1,7 @@
 <h1 align="center">👋 Welcome to my GitHub!</h1>
 
+<br clear="both">
+
 ###
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
