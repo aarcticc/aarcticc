@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
 
 ###
 
