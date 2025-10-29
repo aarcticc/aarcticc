@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/177426453?v=4"  />
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
