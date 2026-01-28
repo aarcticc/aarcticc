@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⏳ 3-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
+<p align="left">⏳ 2-Years Arma 3 modding experience<br>🌱 Learning C-Programming<br>🤝 Open for collabs</p>
 
 ###
 
