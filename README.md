@@ -39,4 +39,3 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/aarcticc">aarcticc</a></i></p>
