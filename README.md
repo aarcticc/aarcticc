@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **C, Low Level Programming and Linux**
+🌱 &nbsp;I'm currently learning **C, Low Level Programming and Linux** <br>
 🕹️ &nbsp;Some experience in **Arma 3 Modding** 
 
 
