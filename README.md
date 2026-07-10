@@ -7,6 +7,8 @@
 ### 🚀 About Me
 
 🌱 &nbsp;I'm currently learning **C, Low Level Programming and Linux**
+🕹️ &nbsp;Some experience in **Arma 3 Modding** 
+
 
 ### 🛠️ Tech Stack
 
