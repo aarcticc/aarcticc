@@ -57,15 +57,4 @@
 A text-based story game written in **C**, exploring an interactive narrative.
 > 🔗 Repository link coming soon
 
----
-
-</div>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aarcticc&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarcticc&layout=compact&theme=dark&hide_border=true" />
-
 </div>
