@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Forgotten Dreams** — a text-based story game written in C *(link coming soon)*
+- 🔭 Currently building a text-based story game written in C *(link coming soon)*
 - 📚 Currently learning **C** and **x86_64 Assembly**
 - 🖥️ Comfortable administering **Unix**, **Linux**, and **Windows** systems
 - 🐧 Daily-driving **FreeBSD** and **Fedora Linux**
