@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building a text-based story game written in C *(link coming soon)*
-- 📚 Currently learning **C** and **x86_64 Assembly**
+- 🔭 Currently building a story driven (horror) novel *(link coming some day)*
+- 📚 Currently learning **C**, **C#** and **x86_64 Assembly**
 - 🖥️ Comfortable administering **Unix**, **Linux**, and **Windows** systems
 - 🐧 Daily-driving **FreeBSD** and **Fedora Linux**
 - ⚡ Fun fact: I'd rather compile it myself
@@ -54,7 +54,7 @@
 ## 🚧 Featured Project
 
 ### 📖 Forgotten Dreams
-A text-based story game written in **C**, exploring an interactive narrative.
-> 🔗 Repository link coming soon
+A story game made with C# in Godot, exploring an interactive narrative.
+> 🔗 Repository link coming some day
 
 </div>
