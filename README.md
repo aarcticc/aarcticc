@@ -33,7 +33,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-x86__64_Assembly-00599C?style=for-the-badge&logo=cpu&logoColor=white)
 ![Makefile](https://img.shields.io/badge/-Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQF](https://img.shields.io/badge/-SQF_(Arma_3)-000000?style=for-the-badge&logo=bohemia-interactive&logoColor=white)
 
 ### Version Control
