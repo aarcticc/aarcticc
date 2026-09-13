@@ -13,17 +13,17 @@
 
 <div align="left">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently building a story driven (horror) novel *(link coming some day)*
-- 📚 Currently learning **C**, **C#** and **x86_64 Assembly**
-- 🖥️ Comfortable administering **Unix**, **Linux**, and **Windows** systems
-- 🐧 Daily-driving **FreeBSD** and **Fedora Linux**
-- ⚡ Fun fact: I'd rather compile it myself
+- Currently building a story driven (horror) novel *(link coming some day)*
+- Currently learning **C**, **C#** and **x86_64 Assembly**
+- Administration experience on **Unix**, **Linux**, and **Windows** systems
+- Daily-driving **FreeBSD** and **Fedora Linux**
+- Fun fact: I'd rather compile it myself
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Operating Systems
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
@@ -50,10 +50,10 @@
 
 ---
 
-## 🚧 Featured Project
+## Featured Project
 
-### 📖 Forgotten Dreams
-A story game made with C# in Godot, exploring an interactive narrative.
+### Forgotten Dreams
+A story game made with C# in Godot, exploring an open, interactive narrative.
 > 🔗 Repository link coming some day
 
 </div>
