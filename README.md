@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 <div align="left">
 
 ## About Me
@@ -20,8 +18,6 @@
 - Administration experience on **Unix**, **Linux**, and **Windows** systems
 - Daily-driving **FreeBSD** and **Fedora Linux**
 - Fun fact: I'd rather compile it myself
-
----
 
 ## Tech Stack
 
@@ -45,8 +41,6 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 ## Featured Project
 
