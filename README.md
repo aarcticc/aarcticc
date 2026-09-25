@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖖, I'm aarcticc
+# Good day, I'm aarcticc
 
 ### Aspiring systems programmer  • Unix enthusiast
 
