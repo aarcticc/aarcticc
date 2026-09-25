@@ -14,7 +14,7 @@
 ## About Me
 
 - Currently learning **C** & **C#**
-- After that **Lua** and **x86_64 Assembly**
+  -  After that **Lua** and **x86_64 Assembly**
 - Administration experience on **Unix**, **Linux**, and **Windows** systems
 - "If it doesn't work, I'd rather compile it myself than giving up"
 
