@@ -13,10 +13,10 @@
 
 ## About Me
 
-- Currently learning **C** & **C#**
-  -  After that **Lua** and **x86_64 Assembly**
+- Currently learning **C** & **System Design** 
+  - Someday I'll probably learn/try **Lua**, **x86_64 Assembly** and **C#**
 - Administration experience on **Unix**, **Linux**, and **Windows** systems
-- "If it doesn't work, I'd rather compile it myself than giving up"
+- "I’d rather debug a broken build and learn than take a shortcut."
 
 ## Tech Stack
 
