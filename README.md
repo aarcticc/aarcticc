@@ -39,7 +39,7 @@
 ## Featured Project
 
 ### Forgotten Dreams
-A Story game made with C#, exploring interactive narrative.
+A Story game made with C and Lua, exploring interactive narrative.
 ```zsh
 ┌(aarcticc@system)-[~/forgotten_dreams]
 └─$ git commit -m "first release in the near future"
