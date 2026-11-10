@@ -13,7 +13,7 @@
 ## About Me
 
 - Currently learning **C** & **System Design** 
-  - Someday I'll probably learn/try **Lua**, **x86_64 Assembly** and **C#**
+  - Someday I'll probably learn/try **Lua**, **6502/x86_64 Assembly** and **C#**
 - Administration experience on **Unix**, **Linux**, and **Windows** systems
 - "I’d rather debug a broken build and learn than take a shortcut."
 
