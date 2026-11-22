@@ -41,7 +41,7 @@
 A story game made with C and Lua, exploring interactive narrative.
 ```zsh
 ┌(aarcticc@system)-[~/forgotten_dreams]
-└─$ git commit -m "first release in the near future"
+└─$ git commit -m "first release in the future"
 ```
 
 </div>
